@@ -37,4 +37,3 @@ The application will create a movie script based on your input, featuring charac
 **Configuration**
 
 Adjust the determine_emotion function in the test_case.py file to customize emotion determination based on dialogue.
-
