@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Movie Script Generator** is a Python-based application that uses OpenAI's GPT-3.5-turbo language model to create dynamic and imaginative movie scripts. The application generates creative scripts complete with dialogues, settings, and character interactions by providing inputs like scenario topics, character names, locations, and emotions.
+The **Movie Script Generator** is a Python-based application that uses OpenAI's GPT-3.5-turbo language model to create dynamic and imaginative movie scripts. The application generates creative scripts with dialogues, settings, and character interactions by providing inputs like scenario topics, character names, locations, and emotions.
 
 ## Prerequisites
 
